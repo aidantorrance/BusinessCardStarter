@@ -1,16 +1,31 @@
 body{
+    font-family: 'Open Sans Pro';
 }
 #card{
+    margin: 0 auto;
+    max-width: 600px;
+    border: 1px solid #ccc;
 }
 h1{
+    color: beige;
 }
 #card img{
+    width: 100%;
 }
 ul{
+    list-style-type: none;
 }
 li{
+    width: 100%;
+
 }
 label{
+    width: 30%;
+    display: inline-block;
 }
 button{
+    width: 100%;
+    padding: 5px;
+    background: #000;
+    color: #fff;
 }
